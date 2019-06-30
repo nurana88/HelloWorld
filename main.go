@@ -8,4 +8,6 @@ import (
 
 func main() {
 	fmt.Println(mapper.Greet("How you doing?"))
+	fmt.Println(mapper.Greet("Wie geht's dir?"))
+
 }
